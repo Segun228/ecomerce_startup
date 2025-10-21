@@ -8,6 +8,7 @@ Django==4.2.23
 django-cors-headers==4.7.0
 djangorestframework==3.16.0
 djangorestframework_simplejwt==5.5.0
+dotenv==0.9.9
 drf-spectacular==0.28.0
 drf-spectacular-sidecar==2025.8.1
 dynaconf==3.2.11
@@ -20,6 +21,7 @@ jsonschema-specifications==2025.4.1
 knox==0.1.14
 loguru==0.7.3
 packaging==25.0
+psycopg2==2.9.11
 psycopg2-binary==2.9.10
 PyJWT==2.9.0
 python-dotenv==1.1.1
